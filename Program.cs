@@ -1,4 +1,4 @@
-ublic void NewMethod()
+public void ExistingMethod()
 {
-    Console.WriteLine("This is a new method in conflict-branch");
+    Console.WriteLine("This method has been modified in main branch");
 }
