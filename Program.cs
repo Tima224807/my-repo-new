@@ -1,12 +1,4 @@
-using System;
-
-namespace MyConsoleApp
+ublic void NewMethod()
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
+    Console.WriteLine("This is a new method in conflict-branch");
 }
